@@ -16,7 +16,11 @@ Tech Stacks:
 Features:
 -----------
 -> Dynamic Navbar with Search functionalities.
+
 -> Login and Sign up Feature
+
 -> Product page with interactive scrollbars.
+
 -> Dynamic cart page
+
 -> Payment page
